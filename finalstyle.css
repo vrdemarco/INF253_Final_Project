@@ -89,3 +89,21 @@ img {
     padding: 18px 12px;
   }
 }
+.page-image {
+  max-width: 220px;
+  height: auto;
+  display: block;
+  margin: 12px auto;
+}
+
+.icon-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.icon-row img {
+  width: 28px;
+  height: auto;
+}
